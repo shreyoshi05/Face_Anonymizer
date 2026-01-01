@@ -69,7 +69,7 @@ pip install mediapipe==0.10.9 opencv-python numpy
 python main.py --mode image --filePath ./data/image.png
 
 
-📤 Output saved as:
+📤Output saved as:
 
 output/output.png
 
